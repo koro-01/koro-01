@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on Animation or making Applications for the web or game 
 - 📫 How to reach me @koro_am on Instagram
-- 😄 Pronouns: ...
+- 😄 Pronouns:He/his
 - ⚡ Fun fact: I love Anime
 
 <!---
