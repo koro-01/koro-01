@@ -35,7 +35,7 @@
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
 
 
-
+<br/><br/>
 ### Tools  
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
 
