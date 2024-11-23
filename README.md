@@ -49,7 +49,8 @@
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 <br/><br/>
-
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
