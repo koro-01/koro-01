@@ -1,6 +1,4 @@
-Got it! I'll customize it with what I know about you so far. Here's a modified version that aligns with your current skills, interests, and background:  
 
----
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
@@ -46,6 +44,4 @@ Got it! I'll customize it with what I know about you so far. Here's a modified v
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
----
 
-Would you like any further changes or additional sections?
