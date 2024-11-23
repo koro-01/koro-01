@@ -46,9 +46,8 @@
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
 
-<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-
 <br/><br/>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!--   green snake -->
