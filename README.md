@@ -4,7 +4,7 @@
 
 <h1> 💫 About Me  </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&pause=1000&center=true&width=435&lines=Hi!+Welcome+to+my+profile!;Full+stack+developper;Digital+Artist;Always+learning+new+things;try!try!and+try!;2%2B+years+of+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+Welcome+to+my+profile!;Full+stack+developper;Digital+Artist;Always+learning+new+things;try!try!and+try!;2%2B+years+of+experience)](https://git.io/typing-svg)
 
 <h3>
   - 🌱 Currently training as a full-stack developer <br/>
