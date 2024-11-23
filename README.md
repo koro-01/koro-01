@@ -7,10 +7,10 @@
 <a href="#--about-me--"><img align="left" alt="Summary" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
 <h3>
-  - 🌱 Currently training as a full-stack developer at the Berrechid Institute of OFPPT<br/>
+  - 🌱 Currently training as a full-stack developer <br/>
   - 🔭 Working on projects using React.js, Laravel, Tailwind CSS, and JavaScript<br/>
-  - 🖌️ A digital artist who enjoys drawing characters, exploring new techniques, and working in Krita<br/>
-  - 🧑‍🎓 Studying algorithms and improving coding skills through tutorials like Abdul Bari's<br/>
+  - 🖌️ A digital artist who enjoys drawing characters, exploring new techniques<br/>
+  - 🧑‍🎓 Studying algorithms data structure and improving coding skills <br/>
   - 🏋️ Balancing coding, art, and fitness, including cycling and skipping rope<br/>
   - 🌟 Passionate about learning Japanese (JLPT N5 level) and exploring creative and tech-based career opportunities<br/>
 </h3>
@@ -23,7 +23,7 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
+
 <br/><br/>
 
 ### Frameworks  
@@ -31,6 +31,8 @@
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
 <br/><br/>
+<a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
+<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
 
 ### Tools  
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
