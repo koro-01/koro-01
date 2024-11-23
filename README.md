@@ -47,6 +47,10 @@
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
 
 <br/><br/>
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 ### Learning Goals  
 - 📘 Improving algorithmic understanding and exploring data structures  
 - 🌐 Mastering full-stack development, focusing on Laravel and React  
