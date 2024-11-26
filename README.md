@@ -21,7 +21,7 @@
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width=32px></a> </h1>
 
 ### Languages  
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
 
