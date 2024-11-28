@@ -13,7 +13,7 @@
   - 🖌️ A digital artist who enjoys drawing characters, exploring new techniques<br/>
   - 🧑‍🎓 Studying algorithms data structure and improving coding skills <br/>
   - 🏋️ Balancing coding, art, and fitness, including cycling and skipping rope<br/>
-  - 🌟 Passionate about learning Japanese (JLPT N5 level) and exploring creative and tech-based career opportunities<br/>
+  - 🌟 Passionate about learning Japanese (JLPT N5 level) and exploring creative and tech-based career opportunities <br/>
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
@@ -60,7 +60,7 @@
 ### Learning Goals  
 - 📘 Improving algorithmic understanding and exploring data structures  
 - 🌐 Mastering full-stack development, focusing on Laravel and React  
-- 📈 Enhancing art skills, particularly digital coloring and advanced techniques  
+- 📈 Enhancing art skills, particularly digital coloring and advanced techniques 
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
