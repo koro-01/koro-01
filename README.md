@@ -57,6 +57,8 @@
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
+### My Portable Scorecard of typing
+<a href="https://data.typeracer.com/pit/profile?user=koro_o&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=koro_o" border="0" alt="TypeRacer.com scorecard for user koro_o"/></a>
 ### Learning Goals  
 - 📘 Improving algorithmic understanding and exploring data structures  
 - 🌐 Mastering full-stack development, focusing on Laravel and React  
