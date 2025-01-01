@@ -3,7 +3,7 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a> 
       
 <h1> 💫 About Me  </h1>              
-      
+        
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+Welcome+to+my+profile!;Full+Stack+Web+Developer;Digital+Artist;Always+learning+new+things;try!try!and+try!;2%2B+years+of+experience)](https://git.io/typing-svg)
          
 
