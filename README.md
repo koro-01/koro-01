@@ -8,7 +8,7 @@
          
   
 <h3>
-  - 🌱 Currently training as a full-stack developer <br/>
+  - 🌱 I am a full-stack developer. <br/>
   - 🔭 Working on projects using React.js, Laravel, Tailwind CSS, and JavaScript<br/>         
   - 🖌️ A digital artist who enjoys drawing characters, exploring new techniques<br/>
   - 🧑‍🎓 Studying algorithms data structure and improving coding skills <br/>
