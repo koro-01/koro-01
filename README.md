@@ -7,17 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+Welcome+to+my+profile!;Full+Stack+Web+Developer;Digital+Artist;Always+learning+new+things;try!try!and+try!;2%2B+years+of+experience)](https://git.io/typing-svg)
 
-  <img
-  src="https://camo.githubusercontent.com/2776288b5f8708f0485f9fdc97b74d0cfb859ef1002f82f4bc0753eea825a67a/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966"
-  alt="Cool Gif"
-  style={{
-    width: "100%",
-    maxWidth: "350px",
-    display: "block",
-    margin: "auto",
-    padding: "10px"
-  }}
-/>
+<p align="center">
+  <img src="https://i.imgur.com/7A5ZfPJ.gif" width="1280" height="250">
+</p>
+
 
 <h3>
   - 🌱 I am a full-stack developer. <br/>
