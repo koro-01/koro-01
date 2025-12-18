@@ -13,7 +13,7 @@
 
 <h3>
   - 🌱 I am a full-stack developer. <br/>
-  - 🔭 Working on projects using React.js, ReactNative CLI, Laravel, Tailwind CSS, and JavaScript<br/>         
+  - 🔭 Working on projects using React.js, ReactNative CLI, Node/Exp, Laravel, Tailwind CSS<br/>         
   - 🖌️ A digital artist who enjoys drawing characters, exploring new techniques<br/>
   - 🧑‍🎓 Studying algorithms data structure and improving coding skills <br/>
   - 🏋️ Balancing coding, art, and fitness, including cycling and skipping rope<br/>
@@ -67,7 +67,7 @@
 
 ### Learning Goals  
 - 📘 Improving algorithmic understanding and exploring data structures  
-- 🌐 Mastering full-stack development, focusing on Laravel and React  
+- 🌐 Mastering full-stack development, focusing on Node/Exp and React  
 - 📈 Enhancing art skills, particularly digital coloring and advanced techniques 
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
