@@ -1,7 +1,6 @@
 
 
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a> 
-
+<!-- <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>  -->
 
 <p align="center">
   <img src="https://i.imgur.com/7A5ZfPJ.gif" width="1280" height="250">
